@@ -42,4 +42,4 @@ Automating using Actions
 2. [Working with GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 3. [Working with GitHub Actions & Packages](https://docs.github.com/en/packages/managing-github-packages-using-github-actions-workflows/publishing-and-installing-a-package-with-github-actions)
 4. [GitHub Packages Billing](https://docs.github.com/en/billing/managing-billing-for-github-packages/about-billing-for-github-packages)
-5. Slides used in the session are here.
+5. Slides used in the session are [here](https://github.com/GitHubConstellation2022/packages-workshop/blob/main/Packages_GitHubIndiaConstellationEvent.pdf).
